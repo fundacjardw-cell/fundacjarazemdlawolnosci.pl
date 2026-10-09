@@ -1,0 +1,2 @@
+# fundacjarazemdlawolnosci.pl
+fundacjarazemdlawolnosci
